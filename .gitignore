@@ -1,0 +1,5 @@
+.workspace-config.json
+
+
+# Jupyter notebook checkpoints
+images/.ipynb_checkpoints/
