@@ -1,5 +1,4 @@
 # Readme.md for Apache Cassandra sparkifydb ETL pipeline
-This is Project 1B for Udacity Data Engineering Nanodegree
 
 ## Purpose:
 The purpose of this database is to create an Apache Cassandra databas and provide datasets that enable answering questions about user behavior in the Sparkify app (especially user song
